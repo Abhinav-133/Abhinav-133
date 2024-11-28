@@ -1,5 +1,4 @@
 <h1 align="center">Hey Everyone 👋, I'm Abhinav Mittal</h1> <div align="center"> </div> <h3 align="center">A passionate Web Developer and Programmer From India. I am a Computer Science student and in my free time, I love exploring new technologies and working on innovative projects.</h3> <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinav-133&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinav-133" /> </p>
-👨‍💻 All of my projects are available at https://github.com/Abhinav-133
 <br><br>
 💬 Ask me about MERN Stack, Web Development, and Full-Stack Projects
 <br><br>
